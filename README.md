@@ -4,7 +4,7 @@
 <h3>Menu de opções do programa</h3>
 <p>Quando iniciar o projeto, o usuário terá que selecionar a opção da funcionalidade que deseja, digitando
 números  entre [1, 2, 3, 4, 5 ou 9].</p>
-![Menu](https://github.com/leonardo-morita/agenda-eletronica/blob/master/buscarPessoas.png)
+! [Menu](https://github.com/leonardo-morita/agenda-eletronica/blob/master/buscarPessoas.png)
 
 <img src="https://github.com/leonardo-morita/agenda-eletronica/blob/master/buscarPessoas.png"
      alt="Menu de Opções"
