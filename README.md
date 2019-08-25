@@ -6,7 +6,7 @@
 números  entre [1, 2, 3, 4, 5 ou 9].</p>
 ![Menu](github.com/leonardo-morita/agenda-eletronica/blob/master/buscarPessoas.png)
 
-<img src="https://github.com/leonardo-morita/agenda-eletronica/blob/master/buscarPessoas.png"
+<img src="https://github.com/leonardo-morita/agenda-eletronica/blob/master/imagens/buscarPessoas.png"
      alt="Menu de Opções"
      style="float: left; margin-right: 10px;" />
 
