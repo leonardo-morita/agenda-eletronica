@@ -1,12 +1,10 @@
 # agenda-eletronica
 <h2>Imagens do projeto</h2>
 
-![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif)
-
 <h3>Menu de opções do programa</h3>
 <p>Quando iniciar o projeto, o usuário terá que selecionar a opção da funcionalidade que deseja, digitando
 números  entre [1, 2, 3, 4, 5 ou 9].</p>
-![Menu de Opções](imagens/menu-opcoes.png)
+![Menu de Opções](/imagens/menu-opcoes.png)
 
 <h3>Adicionar nova pessoa</h3>
 <p>Para adicionar uma nova pessoa, basta inserir o nome e depois o telefone. Caso queira adicionar mais 
