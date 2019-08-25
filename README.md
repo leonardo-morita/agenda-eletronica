@@ -6,6 +6,10 @@
 números  entre [1, 2, 3, 4, 5 ou 9].</p>
 ![Menu](https://github.com/leonardo-morita/agenda-eletronica/blob/master/buscarPessoas.png)
 
+<img src="https://github.com/leonardo-morita/agenda-eletronica/blob/master/buscarPessoas.png"
+     alt="Menu de Opções"
+     style="float: left; margin-right: 10px;" />
+
 <h3>Adicionar nova pessoa</h3>
 <p>Para adicionar uma nova pessoa, basta inserir o nome e depois o telefone. Caso queira adicionar mais 
 telefones, digite "s" quando aparecer na tela "Outro telefone? (s/n): ", caso contrário, digite "n".</p>
