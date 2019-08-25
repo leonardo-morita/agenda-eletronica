@@ -2,8 +2,8 @@
 <h2>Imagens do projeto</h2>
 
 <h3>Menu de opções do programa</h3>
-<p>Quando iniciar o projeto, o usuário terá que selecionar a opção da funcionalidade que deseja, digitando
-números  entre [1, 2, 3, 4, 5 ou 9].</p>
+Quando iniciar o projeto, o usuário terá que selecionar a opção da funcionalidade que deseja, digitando
+números  entre [1, 2, 3, 4, 5 ou 9].
 ![MenuOpções](https://github.com/leonardo-morita/agenda-eletronica/blob/master/imagens/buscarPessoas.png)
 
 <h3>Adicionar nova pessoa</h3>
