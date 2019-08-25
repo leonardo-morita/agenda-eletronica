@@ -4,7 +4,7 @@
 <h3>Menu de opções do programa</h3>
 <p>Quando iniciar o projeto, o usuário terá que selecionar a opção da funcionalidade que deseja, digitando
 números  entre [1, 2, 3, 4, 5 ou 9].</p>
-![Menu](https://github.com/leonardo-morita/agenda-eletronica/blob/master/imagens/buscarPessoas.png)
+![Menu](buscarPessoas.png)
 
 <h3>Adicionar nova pessoa</h3>
 <p>Para adicionar uma nova pessoa, basta inserir o nome e depois o telefone. Caso queira adicionar mais 
