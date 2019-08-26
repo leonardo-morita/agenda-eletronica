@@ -18,8 +18,8 @@ public class AgendaEletronica {
         try {
             while (rodando) {
                 List<List<String>> informacaoPessoas = new ArrayList<>();
-                FileWriter out = new FileWriter("agenda.txt", true);
-                in = new Scanner(new BufferedReader(new FileReader("agenda.txt")));
+                FileWriter out = new FileWriter("src/br/com/unifil/agenda/saida/agenda.txt", true);
+                in = new Scanner(new BufferedReader(new FileReader("src/br/com/unifil/agenda/saida/agenda.txt")));
 
                 exibirMenuDeOpcoes();
 
@@ -372,7 +372,7 @@ public class AgendaEletronica {
 
     private static void atualizarAgendaOrdenada(List<List<String>> informacaoPessoas) throws IOException {
         FileWriter outOrdenada;
-        outOrdenada = new FileWriter("agenda.txt");
+        outOrdenada = new FileWriter("src/br/com/unifil/agenda/saida/agenda.txt");
 
         for (int i = 0; i < informacaoPessoas.size(); i++) {
             String pessoa1 = informacaoPessoas.get(i).get(0) + ", " +
